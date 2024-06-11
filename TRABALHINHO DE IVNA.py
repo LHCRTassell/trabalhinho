@@ -2,9 +2,9 @@ import Rpi.GPIO as GPIO
 import time
 contador=0
 GPIO.setmode(GPIO.BOARD)
-11 == variavel1
-12 == variavel2
-13 == variavel3
+variavel1 = 11
+variavel2 = 12
+variavel3 = 13
 
 GPIO.setup(variavel1,GPIO.OUT)
 GPIO.setup(variavel2,GPIO.OUT) 
